@@ -127,7 +127,7 @@ Regularization
 
 9.1 Regularization using Grid Search
 
-Summary Conclusion
+# Summary Conclusion
 
 ![image](https://user-images.githubusercontent.com/70322122/126867136-3468af30-ea4e-424f-acfc-0062c6184aa6.png)
 
